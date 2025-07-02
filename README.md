@@ -3,7 +3,7 @@ Power Insights Inc., a fictional energy analytics company, aims to improve energ
 
 Project Overview: This project focuses on analyzing energy consumption data to provide actionable insights for optimizing usage and improving energy efficiency for residential and commercial users. By leveraging advanced data analytics, the project supports Power Insights Inc. in addressing the growing demand for sustainable and cost-effective energy solutions.
 
-Dataset Columns and Details:
+# Dataset Columns and Details:
 
 1.Timestamp: Represents the date and time of energy consumption recordings. Used for time-series analysis and identifying patterns.
 
